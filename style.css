@@ -1,0 +1,27 @@
+
+h1{
+    color:cadetblue
+}
+
+
+input{
+    border: 2px solid black;
+    height:40px;
+    width:400px;
+    text-align:center;
+    border-radius:10px;
+    box-shadow: 2px 2px 8px;
+}
+
+.delete{
+    margin-left:10px;
+}
+
+.add{
+    border: 2px solid black;
+    height:40px;
+    border-radius:10px;
+    background-color: darkslateblue;
+    color:white;
+    box-shadow: 2px 2px 8px;
+}
